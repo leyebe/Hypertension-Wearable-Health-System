@@ -1,0 +1,33 @@
+# Keil / STM32 build output
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+*.axf
+*.hex
+*.map
+*.o
+*.d
+*.crf
+*.lst
+*.lnp
+*.htm
+*.dep
+
+# Keil user files
+*.uvguix.*
+*.scvd
+
+# Android build files
+Android_App/.gradle/
+Android_App/build/
+Android_App/app/build/
+*.apk
+
+# Secrets
+*.env
+local.properties
+secrets.properties
+config.properties
+
+# System files
+.DS_Store
+Thumbs.db
