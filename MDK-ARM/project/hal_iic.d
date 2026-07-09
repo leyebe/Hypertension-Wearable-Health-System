@@ -1,0 +1,35 @@
+project\hal_iic.o: ..\BSP\HAL_IIC.c
+project\hal_iic.o: ..\BSP\HAL_IIC.h
+project\hal_iic.o: ..\BSP\system.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+project\hal_iic.o: ../Core/Inc/stm32f1xx_hal_conf.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+project\hal_iic.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+project\hal_iic.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+project\hal_iic.o: ../Drivers/CMSIS/Include/core_cm3.h
+project\hal_iic.o: D:\install software\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+project\hal_iic.o: ../Drivers/CMSIS/Include/cmsis_version.h
+project\hal_iic.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+project\hal_iic.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+project\hal_iic.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+project\hal_iic.o: D:\install software\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+project\hal_iic.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+project\hal_iic.o: ..\BSP\delay.h
+project\hal_iic.o: ../Core/Inc/main.h
